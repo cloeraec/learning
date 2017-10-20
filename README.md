@@ -13,8 +13,8 @@ Draft version of DataTas *key resources for new-start students*
 * [R-Stats](https://www.r-project.org/), [Tidyverse](https://www.tidyverse.org/) / [RStudio community](https://community.rstudio.com/)
 * [Software Carpentry](https://software-carpentry.org/)
 * Local groups:
-* DataTas
-* HRUG
+* [DataTas](datatas.com/)
+* [HRUG](https://www.meetup.com/Hobart-R-Users-Group/)
 * DASH
 * MELTT
 * Eco Mondays
